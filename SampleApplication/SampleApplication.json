@@ -1,0 +1,31 @@
+[
+  {
+    "level" : 1,
+    "answer" : "You can choose 'New Application' from the File Menu.",
+    "linkType" : "none",
+    "sortOrder" : 1,
+    "question" : "How can I add more items to the application?"
+  },
+  {
+    "level" : 2,
+    "answer" : "There are lots of great resources out there.  100DaysOfSwiftUI by Paul Hudson is a great place to start but you also might like to watch videos created by Stewart Lynch who focusses on this topic.",
+    "link" : {
+      "title" : "Stewart Lynch on YouTube",
+      "url" : "https:\/\/youtube.com\/@StewartLynch"
+    },
+    "question" : "I am interested in learning how to develop applications in SwiftUI.  Do you have any suggestions for learning?",
+    "sortOrder" : 2,
+    "linkType" : "External Link"
+  },
+  {
+    "linkType" : "External Link",
+    "sortOrder" : 1,
+    "level" : 2,
+    "link" : {
+      "title" : "CreaTECH App Portfolio",
+      "url" : "https:\/\/www.createchsol.com\/appPortfolio\/"
+    },
+    "question" : "Does this developer have more applications?",
+    "answer" : "Yes, this developer has created many applications.  You can find out more about them on his web site.  See the link below"
+  }
+]
